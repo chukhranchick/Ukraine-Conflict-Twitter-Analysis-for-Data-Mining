@@ -16,3 +16,5 @@ As main evnironment for the project our team used default Anaconda environment. 
 [Most Known Battles in Ukraine 2022](https://www.kaggle.com/datasets/ivanchukhran/most-known-battles-in-ukraine-2022)
 
 [Most Known Attacks on Ukraine 2022](https://www.kaggle.com/datasets/ivanchukhran/most-known-attacks-on-ukraine-2022)
+
+[Geonames - All Cities with a population > 1000](https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000/download/?format=csv&timezone=Europe/Helsinki&lang=en&use_labels_for_header=true&csv_separator=%3B)
